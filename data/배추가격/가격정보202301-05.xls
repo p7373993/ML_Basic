@@ -1,0 +1,1650 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+		<caption>소매가격
+			
+				
+					채소류,
+					배추,
+					전체,
+					상품,
+					1포기
+				
+			
+		 기간별/일간/전통시장/유통업체 평균 가격정보</caption>
+		<colgroup><col>
+		<col>
+		
+			<col>
+		
+		
+			<col>
+		
+		</colgroup><thead>
+			<tr>
+				<th scope="col">구분
+					<button type="button" class="btn ic sort" onclick="fncSortTbl(this, '#itemTable_1_detail', 'desc');" title="정렬버튼">
+						<i class="feather icon-align-justify"></i>
+					</button>
+				</th>
+				<th scope="col">평균 </th>
+				
+					<th scope="col">전통시장</th>
+				
+				
+					<th scope="col">유통업체</th>
+				
+			</tr>
+		</thead>
+		<!-- body 생성 -->
+		
+			
+				<tbody><tr class="fwb">
+					<th class="first cell_tit1">2023.05.31</th>
+					<td class="num">3,964</td>
+					
+						
+							
+								<td>4,366</td>
+							
+							
+							
+						
+					
+					
+						
+							
+								<td>3,702</td>
+							
+							
+							
+						
+					
+				</tr>
+			
+		
+			
+				<tr class="fwb">
+					<th class="first cell_tit1">등락률</th>
+					<td class="num">
+							
+								
+								<span class="down">-0.5</span>
+							
+							
+						</td>
+					
+						
+							
+							
+								<td class="num">
+									<span class="down">-1.1</span>
+								</td>
+							
+							
+						
+					
+					
+						
+							
+							
+								<td class="num">
+									<span class="keep">0.0</span>
+								</td>
+							
+							
+						
+					
+				</tr>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+					<!-- body 생성 -->
+					
+						
+					
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.30</th>
+								<td>3,983</td>
+								
+									<td>4,415</td>
+								
+								
+									<td>3,702</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.26</th>
+								<td>3,954</td>
+								
+									<td>4,441</td>
+								
+								
+									<td>3,636</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.25</th>
+								<td>4,023</td>
+								
+									<td>4,519</td>
+								
+								
+									<td>3,698</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.24</th>
+								<td>4,016</td>
+								
+									<td>4,499</td>
+								
+								
+									<td>3,712</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.23</th>
+								<td>4,069</td>
+								
+									<td>4,599</td>
+								
+								
+									<td>3,736</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.22</th>
+								<td>4,106</td>
+								
+									<td>4,685</td>
+								
+								
+									<td>3,741</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.19</th>
+								<td>4,064</td>
+								
+									<td>4,666</td>
+								
+								
+									<td>3,685</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.18</th>
+								<td>4,005</td>
+								
+									<td>4,686</td>
+								
+								
+									<td>3,602</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.17</th>
+								<td>4,126</td>
+								
+									<td>4,667</td>
+								
+								
+									<td>3,806</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.16</th>
+								<td>4,117</td>
+								
+									<td>4,641</td>
+								
+								
+									<td>3,806</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.15</th>
+								<td>4,067</td>
+								
+									<td>4,527</td>
+								
+								
+									<td>3,795</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.12</th>
+								<td>4,046</td>
+								
+									<td>4,541</td>
+								
+								
+									<td>3,717</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.11</th>
+								<td>4,090</td>
+								
+									<td>4,624</td>
+								
+								
+									<td>3,753</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.10</th>
+								<td>4,156</td>
+								
+									<td>4,631</td>
+								
+								
+									<td>3,857</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.09</th>
+								<td>4,135</td>
+								
+									<td>4,658</td>
+								
+								
+									<td>3,814</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.08</th>
+								<td>4,131</td>
+								
+									<td>4,679</td>
+								
+								
+									<td>3,795</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.04</th>
+								<td>4,119</td>
+								
+									<td>4,591</td>
+								
+								
+									<td>3,810</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.03</th>
+								<td>4,119</td>
+								
+									<td>4,571</td>
+								
+								
+									<td>3,823</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.05.02</th>
+								<td>4,082</td>
+								
+									<td>4,585</td>
+								
+								
+									<td>3,760</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.28</th>
+								<td>4,278</td>
+								
+									<td>4,639</td>
+								
+								
+									<td>3,554</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.27</th>
+								<td>4,276</td>
+								
+									<td>4,638</td>
+								
+								
+									<td>3,554</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.26</th>
+								<td>4,168</td>
+								
+									<td>4,638</td>
+								
+								
+									<td>3,698</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.25</th>
+								<td>4,168</td>
+								
+									<td>4,638</td>
+								
+								
+									<td>3,698</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.24</th>
+								<td>4,160</td>
+								
+									<td>4,597</td>
+								
+								
+									<td>3,723</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.21</th>
+								<td>4,124</td>
+								
+									<td>4,556</td>
+								
+								
+									<td>3,692</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.20</th>
+								<td>4,127</td>
+								
+									<td>4,531</td>
+								
+								
+									<td>3,819</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.19</th>
+								<td>4,020</td>
+								
+									<td>4,524</td>
+								
+								
+									<td>3,653</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.18</th>
+								<td>4,025</td>
+								
+									<td>4,536</td>
+								
+								
+									<td>3,653</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.17</th>
+								<td>4,021</td>
+								
+									<td>4,547</td>
+								
+								
+									<td>3,655</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.14</th>
+								<td>3,984</td>
+								
+									<td>4,515</td>
+								
+								
+									<td>3,591</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.13</th>
+								<td>3,981</td>
+								
+									<td>4,509</td>
+								
+								
+									<td>3,591</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.12</th>
+								<td>3,718</td>
+								
+									<td>4,452</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.11</th>
+								<td>3,699</td>
+								
+									<td>4,406</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.10</th>
+								<td>3,662</td>
+								
+									<td>4,318</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.07</th>
+								<td>3,625</td>
+								
+									<td>4,226</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.06</th>
+								<td>3,625</td>
+								
+									<td>4,226</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.05</th>
+								<td>3,625</td>
+								
+									<td>4,216</td>
+								
+								
+									<td>3,207</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.04</th>
+								<td>3,601</td>
+								
+									<td>4,192</td>
+								
+								
+									<td>3,182</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.04.03</th>
+								<td>3,569</td>
+								
+									<td>4,116</td>
+								
+								
+									<td>3,182</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.31</th>
+								<td>3,556</td>
+								
+									<td>4,084</td>
+								
+								
+									<td>3,182</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.30</th>
+								<td>3,556</td>
+								
+									<td>4,084</td>
+								
+								
+									<td>3,182</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.29</th>
+								<td>3,581</td>
+								
+									<td>4,074</td>
+								
+								
+									<td>3,200</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.28</th>
+								<td>3,574</td>
+								
+									<td>4,074</td>
+								
+								
+									<td>3,204</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.27</th>
+								<td>3,574</td>
+								
+									<td>4,074</td>
+								
+								
+									<td>3,204</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.24</th>
+								<td>3,549</td>
+								
+									<td>4,074</td>
+								
+								
+									<td>3,160</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.23</th>
+								<td>3,541</td>
+								
+									<td>4,055</td>
+								
+								
+									<td>3,160</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.22</th>
+								<td>3,490</td>
+								
+									<td>4,017</td>
+								
+								
+									<td>3,131</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.21</th>
+								<td>3,534</td>
+								
+									<td>3,998</td>
+								
+								
+									<td>3,192</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.20</th>
+								<td>3,571</td>
+								
+									<td>3,979</td>
+								
+								
+									<td>3,207</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.17</th>
+								<td>3,649</td>
+								
+									<td>3,948</td>
+								
+								
+									<td>3,258</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.16</th>
+								<td>3,620</td>
+								
+									<td>3,929</td>
+								
+								
+									<td>3,183</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.15</th>
+								<td>3,544</td>
+								
+									<td>3,929</td>
+								
+								
+									<td>3,076</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.14</th>
+								<td>3,544</td>
+								
+									<td>3,929</td>
+								
+								
+									<td>3,076</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.13</th>
+								<td>3,524</td>
+								
+									<td>3,892</td>
+								
+								
+									<td>3,076</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.10</th>
+								<td>3,514</td>
+								
+									<td>3,844</td>
+								
+								
+									<td>3,112</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.09</th>
+								<td>3,482</td>
+								
+									<td>3,786</td>
+								
+								
+									<td>3,112</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.08</th>
+								<td>3,378</td>
+								
+									<td>3,738</td>
+								
+								
+									<td>3,018</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.07</th>
+								<td>3,368</td>
+								
+									<td>3,717</td>
+								
+								
+									<td>3,018</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.06</th>
+								<td>3,350</td>
+								
+									<td>3,682</td>
+								
+								
+									<td>3,018</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.03</th>
+								<td>3,236</td>
+								
+									<td>3,628</td>
+								
+								
+									<td>2,866</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.03.02</th>
+								<td>3,198</td>
+								
+									<td>3,628</td>
+								
+								
+									<td>2,814</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.28</th>
+								<td>3,178</td>
+								
+									<td>3,583</td>
+								
+								
+									<td>2,865</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.27</th>
+								<td>3,181</td>
+								
+									<td>3,583</td>
+								
+								
+									<td>2,870</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.24</th>
+								<td>3,179</td>
+								
+									<td>3,589</td>
+								
+								
+									<td>2,875</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.23</th>
+								<td>3,170</td>
+								
+									<td>3,589</td>
+								
+								
+									<td>2,859</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.22</th>
+								<td>3,111</td>
+								
+									<td>3,588</td>
+								
+								
+									<td>2,635</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.21</th>
+								<td>3,123</td>
+								
+									<td>3,611</td>
+								
+								
+									<td>2,635</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.20</th>
+								<td>3,105</td>
+								
+									<td>3,611</td>
+								
+								
+									<td>2,599</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.17</th>
+								<td>3,103</td>
+								
+									<td>3,588</td>
+								
+								
+									<td>2,618</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.16</th>
+								<td>3,112</td>
+								
+									<td>3,588</td>
+								
+								
+									<td>2,637</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.15</th>
+								<td>3,043</td>
+								
+									<td>3,559</td>
+								
+								
+									<td>2,557</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.14</th>
+								<td>3,040</td>
+								
+									<td>3,551</td>
+								
+								
+									<td>2,557</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.13</th>
+								<td>3,045</td>
+								
+									<td>3,561</td>
+								
+								
+									<td>2,557</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.10</th>
+								<td>3,037</td>
+								
+									<td>3,561</td>
+								
+								
+									<td>2,514</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.09</th>
+								<td>3,037</td>
+								
+									<td>3,561</td>
+								
+								
+									<td>2,514</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.08</th>
+								<td>2,916</td>
+								
+									<td>3,531</td>
+								
+								
+									<td>2,419</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.07</th>
+								<td>2,913</td>
+								
+									<td>3,524</td>
+								
+								
+									<td>2,419</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.06</th>
+								<td>2,921</td>
+								
+									<td>3,542</td>
+								
+								
+									<td>2,419</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.03</th>
+								<td>2,919</td>
+								
+									<td>3,551</td>
+								
+								
+									<td>2,431</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.02</th>
+								<td>2,910</td>
+								
+									<td>3,538</td>
+								
+								
+									<td>2,445</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.02.01</th>
+								<td>2,889</td>
+								
+									<td>3,547</td>
+								
+								
+									<td>2,403</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.31</th>
+								<td>2,910</td>
+								
+									<td>3,521</td>
+								
+								
+									<td>2,477</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.30</th>
+								<td>2,894</td>
+								
+									<td>3,478</td>
+								
+								
+									<td>2,462</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.27</th>
+								<td>2,846</td>
+								
+									<td>3,442</td>
+								
+								
+									<td>2,441</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.26</th>
+								<td>2,792</td>
+								
+									<td>3,442</td>
+								
+								
+									<td>2,350</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.25</th>
+								<td>2,790</td>
+								
+									<td>3,455</td>
+								
+								
+									<td>2,319</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.20</th>
+								<td>2,750</td>
+								
+									<td>3,445</td>
+								
+								
+									<td>2,257</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.19</th>
+								<td>2,749</td>
+								
+									<td>3,443</td>
+								
+								
+									<td>2,257</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.18</th>
+								<td>2,891</td>
+								
+									<td>3,453</td>
+								
+								
+									<td>2,493</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.17</th>
+								<td>2,891</td>
+								
+									<td>3,453</td>
+								
+								
+									<td>2,493</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.16</th>
+								<td>2,902</td>
+								
+									<td>3,453</td>
+								
+								
+									<td>2,494</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.13</th>
+								<td>2,878</td>
+								
+									<td>3,456</td>
+								
+								
+									<td>2,450</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.12</th>
+								<td>2,924</td>
+								
+									<td>3,475</td>
+								
+								
+									<td>2,498</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.11</th>
+								<td>3,038</td>
+								
+									<td>3,475</td>
+								
+								
+									<td>2,541</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.10</th>
+								<td>3,047</td>
+								
+									<td>3,509</td>
+								
+								
+									<td>2,522</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.09</th>
+								<td>3,132</td>
+								
+									<td>3,527</td>
+								
+								
+									<td>2,521</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.06</th>
+								<td>3,128</td>
+								
+									<td>3,514</td>
+								
+								
+									<td>2,442</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.05</th>
+								<td>3,133</td>
+								
+									<td>3,548</td>
+								
+								
+									<td>2,442</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.04</th>
+								<td>3,138</td>
+								
+									<td>3,552</td>
+								
+								
+									<td>2,724</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.03</th>
+								<td>3,125</td>
+								
+									<td>3,564</td>
+								
+								
+									<td>2,755</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2023.01.02</th>
+								<td>3,088</td>
+								
+									<td>3,553</td>
+								
+								
+									<td>2,716</td>
+								
+							</tr>
+						
+					
+				</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

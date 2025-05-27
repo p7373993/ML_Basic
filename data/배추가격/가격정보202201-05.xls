@@ -1,0 +1,1635 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+		<caption>소매가격
+			
+				
+					채소류,
+					배추,
+					전체,
+					상품,
+					1포기
+				
+			
+		 기간별/일간/전통시장/유통업체 평균 가격정보</caption>
+		<colgroup><col>
+		<col>
+		
+			<col>
+		
+		
+			<col>
+		
+		</colgroup><thead>
+			<tr>
+				<th scope="col">구분
+					<button type="button" class="btn ic sort" onclick="fncSortTbl(this, '#itemTable_1_detail', 'desc');" title="정렬버튼">
+						<i class="feather icon-align-justify"></i>
+					</button>
+				</th>
+				<th scope="col">평균 </th>
+				
+					<th scope="col">전통시장</th>
+				
+				
+					<th scope="col">유통업체</th>
+				
+			</tr>
+		</thead>
+		<!-- body 생성 -->
+		
+			
+				<tbody><tr class="fwb">
+					<th class="first cell_tit1">2022.05.31</th>
+					<td class="num">4,020</td>
+					
+						
+							
+								<td>4,504</td>
+							
+							
+							
+						
+					
+					
+						
+							
+								<td>3,683</td>
+							
+							
+							
+						
+					
+				</tr>
+			
+		
+			
+				<tr class="fwb">
+					<th class="first cell_tit1">등락률</th>
+					<td class="num">
+							
+								
+								<span class="down">-0.3</span>
+							
+							
+						</td>
+					
+						
+							
+							
+								<td class="num">
+									<span class="down">-0.7</span>
+								</td>
+							
+							
+						
+					
+					
+						
+							
+							
+								<td class="num">
+									<span class="keep">0.0</span>
+								</td>
+							
+							
+						
+					
+				</tr>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+					<!-- body 생성 -->
+					
+						
+					
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.30</th>
+								<td>4,033</td>
+								
+									<td>4,537</td>
+								
+								
+									<td>3,683</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.27</th>
+								<td>4,005</td>
+								
+									<td>4,518</td>
+								
+								
+									<td>3,648</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.26</th>
+								<td>4,002</td>
+								
+									<td>4,511</td>
+								
+								
+									<td>3,632</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.25</th>
+								<td>4,000</td>
+								
+									<td>4,498</td>
+								
+								
+									<td>3,653</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.24</th>
+								<td>3,985</td>
+								
+									<td>4,478</td>
+								
+								
+									<td>3,642</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.23</th>
+								<td>3,949</td>
+								
+									<td>4,436</td>
+								
+								
+									<td>3,594</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.20</th>
+								<td>3,970</td>
+								
+									<td>4,436</td>
+								
+								
+									<td>3,630</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.19</th>
+								<td>3,983</td>
+								
+									<td>4,467</td>
+								
+								
+									<td>3,630</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.18</th>
+								<td>4,110</td>
+								
+									<td>4,454</td>
+								
+								
+									<td>3,838</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.17</th>
+								<td>4,097</td>
+								
+									<td>4,471</td>
+								
+								
+									<td>3,816</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.16</th>
+								<td>5,481</td>
+								
+									<td>5,481</td>
+								
+								
+									<td>-</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.13</th>
+								<td>5,347</td>
+								
+									<td>5,481</td>
+								
+								
+									<td>4,270</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.12</th>
+								<td>5,309</td>
+								
+									<td>5,481</td>
+								
+								
+									<td>3,930</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.11</th>
+								<td>5,351</td>
+								
+									<td>5,529</td>
+								
+								
+									<td>3,930</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.10</th>
+								<td>5,327</td>
+								
+									<td>5,501</td>
+								
+								
+									<td>3,930</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.09</th>
+								<td>5,238</td>
+								
+									<td>5,356</td>
+								
+								
+									<td>3,930</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.06</th>
+								<td>5,299</td>
+								
+									<td>5,368</td>
+								
+								
+									<td>4,470</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.04</th>
+								<td>5,294</td>
+								
+									<td>5,341</td>
+								
+								
+									<td>4,730</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.03</th>
+								<td>5,273</td>
+								
+									<td>5,315</td>
+								
+								
+									<td>4,730</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.05.02</th>
+								<td>5,254</td>
+								
+									<td>5,291</td>
+								
+								
+									<td>4,730</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.29</th>
+								<td>5,052</td>
+								
+									<td>5,287</td>
+								
+								
+									<td>3,405</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.28</th>
+								<td>5,077</td>
+								
+									<td>5,286</td>
+								
+								
+									<td>3,405</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.27</th>
+								<td>5,072</td>
+								
+									<td>5,286</td>
+								
+								
+									<td>3,355</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.26</th>
+								<td>5,072</td>
+								
+									<td>5,286</td>
+								
+								
+									<td>3,355</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.25</th>
+								<td>5,081</td>
+								
+									<td>5,297</td>
+								
+								
+									<td>3,355</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.22</th>
+								<td>5,173</td>
+								
+									<td>5,276</td>
+								
+								
+									<td>4,350</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.21</th>
+								<td>5,173</td>
+								
+									<td>5,276</td>
+								
+								
+									<td>4,350</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.20</th>
+								<td>5,038</td>
+								
+									<td>5,276</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.19</th>
+								<td>4,977</td>
+								
+									<td>5,204</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.18</th>
+								<td>4,934</td>
+								
+									<td>5,153</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.15</th>
+								<td>4,910</td>
+								
+									<td>5,124</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.14</th>
+								<td>4,910</td>
+								
+									<td>5,124</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.13</th>
+								<td>4,897</td>
+								
+									<td>5,109</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.12</th>
+								<td>4,904</td>
+								
+									<td>5,118</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.11</th>
+								<td>4,874</td>
+								
+									<td>5,081</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.08</th>
+								<td>4,860</td>
+								
+									<td>5,065</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.07</th>
+								<td>4,860</td>
+								
+									<td>5,065</td>
+								
+								
+									<td>3,767</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.06</th>
+								<td>4,931</td>
+								
+									<td>4,998</td>
+								
+								
+									<td>4,573</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.05</th>
+								<td>4,957</td>
+								
+									<td>4,998</td>
+								
+								
+									<td>4,740</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.04</th>
+								<td>4,930</td>
+								
+									<td>4,966</td>
+								
+								
+									<td>4,740</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.04.01</th>
+								<td>4,858</td>
+								
+									<td>4,966</td>
+								
+								
+									<td>4,425</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.31</th>
+								<td>4,790</td>
+								
+									<td>4,932</td>
+								
+								
+									<td>4,183</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.30</th>
+								<td>4,711</td>
+								
+									<td>4,926</td>
+								
+								
+									<td>3,798</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.29</th>
+								<td>4,691</td>
+								
+									<td>4,901</td>
+								
+								
+									<td>3,798</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.28</th>
+								<td>4,692</td>
+								
+									<td>4,902</td>
+								
+								
+									<td>3,798</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.25</th>
+								<td>4,589</td>
+								
+									<td>4,793</td>
+								
+								
+									<td>3,720</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.24</th>
+								<td>4,596</td>
+								
+									<td>4,802</td>
+								
+								
+									<td>3,720</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.23</th>
+								<td>4,450</td>
+								
+									<td>4,801</td>
+								
+								
+									<td>2,962</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.22</th>
+								<td>4,545</td>
+								
+									<td>4,756</td>
+								
+								
+									<td>3,645</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.21</th>
+								<td>4,521</td>
+								
+									<td>4,764</td>
+								
+								
+									<td>3,694</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.18</th>
+								<td>4,497</td>
+								
+									<td>4,745</td>
+								
+								
+									<td>3,654</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.17</th>
+								<td>4,482</td>
+								
+									<td>4,745</td>
+								
+								
+									<td>3,586</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.16</th>
+								<td>4,430</td>
+								
+									<td>4,745</td>
+								
+								
+									<td>3,535</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.15</th>
+								<td>4,420</td>
+								
+									<td>4,752</td>
+								
+								
+									<td>3,480</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.14</th>
+								<td>4,341</td>
+								
+									<td>4,662</td>
+								
+								
+									<td>3,433</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.11</th>
+								<td>4,372</td>
+								
+									<td>4,647</td>
+								
+								
+									<td>3,593</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.10</th>
+								<td>4,334</td>
+								
+									<td>4,619</td>
+								
+								
+									<td>3,527</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.08</th>
+								<td>4,274</td>
+								
+									<td>4,619</td>
+								
+								
+									<td>3,298</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.07</th>
+								<td>4,274</td>
+								
+									<td>4,619</td>
+								
+								
+									<td>3,298</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.04</th>
+								<td>4,150</td>
+								
+									<td>4,599</td>
+								
+								
+									<td>3,198</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.03</th>
+								<td>4,163</td>
+								
+									<td>4,563</td>
+								
+								
+									<td>3,190</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.03.02</th>
+								<td>4,144</td>
+								
+									<td>4,563</td>
+								
+								
+									<td>3,255</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.28</th>
+								<td>4,154</td>
+								
+									<td>4,578</td>
+								
+								
+									<td>3,255</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.25</th>
+								<td>4,212</td>
+								
+									<td>4,578</td>
+								
+								
+									<td>3,324</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.24</th>
+								<td>4,205</td>
+								
+									<td>4,578</td>
+								
+								
+									<td>3,413</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.23</th>
+								<td>4,168</td>
+								
+									<td>4,598</td>
+								
+								
+									<td>3,358</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.22</th>
+								<td>4,168</td>
+								
+									<td>4,598</td>
+								
+								
+									<td>3,358</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.21</th>
+								<td>4,168</td>
+								
+									<td>4,598</td>
+								
+								
+									<td>3,358</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.18</th>
+								<td>4,121</td>
+								
+									<td>4,583</td>
+								
+								
+									<td>3,337</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.17</th>
+								<td>4,109</td>
+								
+									<td>4,563</td>
+								
+								
+									<td>3,337</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.16</th>
+								<td>4,065</td>
+								
+									<td>4,563</td>
+								
+								
+									<td>3,218</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.15</th>
+								<td>4,065</td>
+								
+									<td>4,563</td>
+								
+								
+									<td>3,218</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.14</th>
+								<td>4,084</td>
+								
+									<td>4,593</td>
+								
+								
+									<td>3,218</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.11</th>
+								<td>4,070</td>
+								
+									<td>4,593</td>
+								
+								
+									<td>3,181</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.10</th>
+								<td>4,070</td>
+								
+									<td>4,593</td>
+								
+								
+									<td>3,181</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.09</th>
+								<td>4,031</td>
+								
+									<td>4,593</td>
+								
+								
+									<td>3,163</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.08</th>
+								<td>4,031</td>
+								
+									<td>4,593</td>
+								
+								
+									<td>3,163</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.07</th>
+								<td>3,999</td>
+								
+									<td>4,564</td>
+								
+								
+									<td>3,126</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.04</th>
+								<td>3,956</td>
+								
+									<td>4,544</td>
+								
+								
+									<td>3,047</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.02.03</th>
+								<td>3,929</td>
+								
+									<td>4,544</td>
+								
+								
+									<td>3,058</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.28</th>
+								<td>4,012</td>
+								
+									<td>4,544</td>
+								
+								
+									<td>3,259</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.27</th>
+								<td>3,998</td>
+								
+									<td>4,544</td>
+								
+								
+									<td>3,285</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.26</th>
+								<td>3,980</td>
+								
+									<td>4,558</td>
+								
+								
+									<td>3,277</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.25</th>
+								<td>3,988</td>
+								
+									<td>4,573</td>
+								
+								
+									<td>3,277</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.24</th>
+								<td>4,021</td>
+								
+									<td>4,573</td>
+								
+								
+									<td>3,299</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.21</th>
+								<td>3,974</td>
+								
+									<td>4,573</td>
+								
+								
+									<td>3,246</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.20</th>
+								<td>4,000</td>
+								
+									<td>4,573</td>
+								
+								
+									<td>3,252</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.19</th>
+								<td>4,148</td>
+								
+									<td>4,607</td>
+								
+								
+									<td>3,439</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.18</th>
+								<td>4,340</td>
+								
+									<td>4,631</td>
+								
+								
+									<td>3,634</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.17</th>
+								<td>4,375</td>
+								
+									<td>4,616</td>
+								
+								
+									<td>3,692</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.14</th>
+								<td>4,330</td>
+								
+									<td>4,616</td>
+								
+								
+									<td>3,634</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.13</th>
+								<td>4,559</td>
+								
+									<td>4,672</td>
+								
+								
+									<td>3,600</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.12</th>
+								<td>4,506</td>
+								
+									<td>4,672</td>
+								
+								
+									<td>3,560</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.11</th>
+								<td>4,489</td>
+								
+									<td>4,652</td>
+								
+								
+									<td>3,560</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.10</th>
+								<td>4,326</td>
+								
+									<td>4,470</td>
+								
+								
+									<td>3,560</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.07</th>
+								<td>4,387</td>
+								
+									<td>4,813</td>
+								
+								
+									<td>3,535</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.06</th>
+								<td>4,387</td>
+								
+									<td>4,813</td>
+								
+								
+									<td>3,535</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.05</th>
+								<td>4,302</td>
+								
+									<td>4,813</td>
+								
+								
+									<td>3,486</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.04</th>
+								<td>4,289</td>
+								
+									<td>4,791</td>
+								
+								
+									<td>3,486</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<th class="first cell_tit1">2022.01.03</th>
+								<td>4,151</td>
+								
+									<td>4,483</td>
+								
+								
+									<td>3,486</td>
+								
+							</tr>
+						
+					
+				</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
